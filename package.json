@@ -1,0 +1,24 @@
+{
+  "name": "bot-socialnetworks",
+  "version": "0.0.1",
+  "description": "Bot to automate common tasks on most popular social networks.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellaurindo/bot-socialnetworks.git"
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "instagram",
+    "linkedin",
+    "socialnetworks",
+    "twitter"
+  ],
+  "author": "Rafael Laurindo <https://rafaellaurindo.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaellaurindo/bot-socialnetworks/issues"
+  },
+  "homepage": "https://github.com/rafaellaurindo/bot-socialnetworks#readme"
+}
