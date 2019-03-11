@@ -2,7 +2,7 @@
   "name": "bot-socialnetworks",
   "version": "0.0.1",
   "description": "Bot to automate common tasks on most popular social networks.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafaellaurindo/bot-socialnetworks.git"
@@ -20,5 +20,18 @@
   "bugs": {
     "url": "https://github.com/rafaellaurindo/bot-socialnetworks/issues"
   },
-  "homepage": "https://github.com/rafaellaurindo/bot-socialnetworks#readme"
+  "homepage": "https://github.com/rafaellaurindo/bot-socialnetworks#readme",
+  "devDependencies": {
+    "@types/chromedriver": "^2.38.0",
+    "@types/node": "^11.9.4",
+    "@types/selenium-webdriver": "^3.0.15",
+    "prettier": "^1.16.4",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
 }
