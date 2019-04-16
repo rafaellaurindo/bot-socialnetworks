@@ -1,4 +1,4 @@
 export default interface ILoginParams {
-	password: string;
-	username: string;
-};
+  password: string;
+  username: string;
+}
